@@ -1,12 +1,8 @@
-div align="center">
-
 🚀 Sales ETL Pipeline with State Management
 
 Automação de processamento de pedidos "quase-tempo-real" com garantia de idempotência e tratamento de erros.
 
 Sobre • Fluxo • Tecnologias • Destaques • Como Executar
-
-</div>
 
 📄 Sobre o Projeto
 
@@ -98,8 +94,4 @@ Status
 
 Start: Ative o workflow.
 
-<div align="center">
-
 Desenvolvido por Karine Oliveira
-
-</div>
